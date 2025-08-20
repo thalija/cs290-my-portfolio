@@ -5,7 +5,7 @@ npm install
 
 **Modify the .env file in the Backend (rest)**<br>
 Add your MongoDb Atlas
-MONGODB_CONNECT_STRING=mongodb+srv://<username>:<password>@cluster.mongodb.net/your-db-name
+MONGODB_CONNECT_STRING=mongodb+srv://username:password@cluster.mongodb.net/your-db-name
 
 
 **Run the Backend Server**<br>
